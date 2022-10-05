@@ -451,7 +451,7 @@ sendOTP=()=>{
                       </a>
                       <br />
                       <br />
-                      <a href="https://t.me/colortrading247">
+                      <a href="https://t.me/wingotrading101">
                         Contact US
                       </a>
 
